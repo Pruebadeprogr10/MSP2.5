@@ -1,1122 +1,834 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719376826447 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719377956750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376829485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377959853 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376832543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377962904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376835667 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377966031 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376839235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377969072 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376842503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377972125 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376845621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377975164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376848660 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377978207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376851703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377981261 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376854752 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377984327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376860265 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377987451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376863488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377990503 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376866523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377993537 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376869562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377996597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376872605 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719377999640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376875720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378004154 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376878810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378007327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376881876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378010372 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376885340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378014530 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376888388 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378017590 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376891455 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378020627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376894543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378023681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376897589 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378026729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376900649 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378029798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376903908 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378032851 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376906984 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378035932 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376910035 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378040330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376913116 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378043686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376916224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378046783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376919323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378049841 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376922382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378052921 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376925433 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378055982 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376928574 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378060260 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376931643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378063505 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376934799 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378066584 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376937890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378069794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376940976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378072904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376944064 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378075963 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376947138 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378079026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376952318 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378082354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376955701 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378085402 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376958735 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378088465 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376961794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378091499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376964831 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378094547 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376967920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378097585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376971757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378100686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376974815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378103721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376977879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378106822 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376980968 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378109866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376984048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378112904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376987132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378116002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376990197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378119064 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376993275 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378122116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719376997586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378125175 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377000639 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378129152 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377003678 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378132564 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377006776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378135605 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377009833 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378138644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377012867 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378141684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377015914 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378144768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377021241 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378147855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377024662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378150894 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377027737 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378153941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377030844 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378157065 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377033888 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378160113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377036938 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378163164 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377040041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378166248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377044128 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378169292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377047169 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378172341 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377050206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378177100 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377053241 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378180218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377056282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378183257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377059339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378186758 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377062920 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378190138 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377066359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378193194 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377069412 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378196312 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377072462 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378201428 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377075530 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378204461 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377078756 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378207502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377081814 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378210539 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377084887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378213672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377088779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378216704 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377092052 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378219763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377095159 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378222798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377098205 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378225906 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377101577 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378228957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377104643 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378231992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377108082 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378235030 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377111182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378238144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377114258 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378241200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377117392 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378244271 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377120466 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378248127 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377123539 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378251178 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377126710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378254211 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377129843 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378257464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377132899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378260521 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377135950 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378263646 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377138993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378266858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377142041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378269892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377145164 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378272969 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377148349 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378276174 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377151423 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378279219 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377154457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378282388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377157532 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378285451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377160566 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378288524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377163612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378292999 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377166654 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378296098 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377169733 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378299223 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377172783 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378302361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377175832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378305399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377178934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378308445 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377181997 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378311495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377185050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378314561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377188132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378317715 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377191271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378320759 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377194378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378323804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377197451 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378326845 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377200492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378329890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377204305 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378333005 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377207745 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378336083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377210779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378339116 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377213815 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378342159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377216853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378345209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377219968 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378348291 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377223023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378351346 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377226089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378354405 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377229160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378357545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377232220 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378361373 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377235270 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378364448 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377238671 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378367482 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377241720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378370524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377244875 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378373564 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377249149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378376619 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377252251 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378379733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377255294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378382787 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377258387 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378385830 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377261421 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378388988 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377264658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378392038 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377267699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719378395097 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377270735 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377274721 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377277781 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377280829 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377283985 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377287031 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377290113 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377293159 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377297044 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377300134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377303196 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377306242 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377309332 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377312480 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377315527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377319655 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377323143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377326209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377329256 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377332318 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377335358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377338424 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377342882 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:19132 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377347564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377350827 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377353897 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377356974 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377360046 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377363080 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377366161 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377370067 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377373136 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377376177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377379214 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377382249 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377385301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377389478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377392569 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377395644 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377398726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377402482 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377405546 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377408652 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377411772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377414816 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377418169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377421212 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
-archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719377424247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:3204 (minecraft-bedrock)
+listing-washing.gl.at.ply.gg:3204 => 127.0.0.1:44405 (minecraft-bedrock)
 archives-meets.gl.joinmc.link => 127.0.0.1:44405 (minecraft-java)
